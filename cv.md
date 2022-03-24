@@ -1,10 +1,10 @@
 # _Zhnai Vitali_ #
-## * Contacts * ##
+## Contacts ##
  * Discord: Vitali(@harvester2010)
  * Email: zhnai@mail.ru
 ## About Me ##
 I work in a power station. I want to get new knowledge an challenges.
-## * Skills * ##
+## Skills ##
  * HTML/cSS(basic)
  * JavaScript(basic)
  * Git(basic)
@@ -20,7 +20,7 @@ return num.sort((a, b) => b - a)
  * Minsk State Power college(automation and control energy processes)
  * Belarussian National Technical University(engineer in energetic)
 ## Experience ##
-## * Languages * ##
+## Languages ##
  * belarussian(native)
  * russian
  * english(intermediate)
