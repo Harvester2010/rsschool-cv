@@ -20,6 +20,7 @@ return num.sort((a, b) => b - a)
  * Minsk State Power college(automation and control energy processes)
  * Belarussian National Technical University(engineer in energetic)
 ## Experience ##
+https://Harvester2010.github.io/rsschool-cv/cv
 ## Languages ##
  * belarussian(native)
  * russian
