@@ -1,8 +1,8 @@
 # _Zhnai Vitali__ #
-## *Contacts* ##
+## * Contacts * ##
 ## About Me ##
-## *Skills* ##
+## * Skills * ##
 ## Code Example ##
 ## Education ##
 ## Experience ##
-## *Languages* ##
+## * Languages * ##
