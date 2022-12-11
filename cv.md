@@ -5,7 +5,7 @@
 ## About Me ##
 I work in a power station. I want to get new knowledge an challenges.
 ## Skills ##
- * HTML/cSS(basic)
+ * HTML/CSS(basic)
  * JavaScript(basic)
  * Git(basic)
 ## Code Example ##
