@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/img/favicon.ico.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,400;0,700;1,400;1,700&family=Magra&family=Red+Hat+Text:wght@500&display=swap" rel="stylesheet">
+    <title>CV</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+        <nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+              <li class="nav-item"><a href="#about me" class="nav-link">About me</a></li>
+              <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+              <li class="nav-item"><a href="#code" class="nav-link">Code examples</a></li>
+              <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+              <li class="nav-item"><a href="#education" class="nav-link">Education</a></li> 
+              <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+            </ul>
+          </nav> 
+        </div>
+       </header>  
+       <main>
+        <div class="container main-container">
+           <section>
+            <h1 class="name">
+                Vitali Zhnai</h1>
+                <img class="photo" width="320" height="240" src="assets/img/img.JPG" alt="myPhoto">
+           
+
+            </section>
+           <section class="section">
+            <h2 id="contacts">Contacts</h2>
+            <ul>
+            <li> Email: zhnai@mail.ru</li>
+ <li>Discord: Vitali(@harvester2010)</li>
+</ul>
+</section>
+<section class="section">
+ <h2 class="about me" id="about me">About me</h2>
+ <p>I work in a power station. І want to change and new knowledges</p>
+</section>
+<section class="section">
+ <h2 class="skills" id="skills">Skills</h2>
+ <ul>
+ <li> HTML/CSS(basic) </li>
+   <li>  JavaScript(basic) </li>
+    <li> Git(basic)</li> 
+    </ul>
+</section>
+<section class="section">
+<h2 class="code" id="code">Code examples</h2>
+<p> function maxTriSum(numbers){ <br>
+    const num = Array.from(new Set(numbers)); <br>
+  return num.sort((a, b) => b - a) <br>
+    .slice(0, 3) <br>
+    .reduce((sum, current) => sum + current); <br>
+    } </p>
+</section>
+<section class="section">
+    <h2 class="project" id="projects">Projects</h2>
+    <p>https://harvester2010.github.io/rsschool-cv/
+    </p>
+</section>
+<section class="section">
+ <h2 id="education" id="education" >Education</h2>
+ <p>Minsk State Power college(automation and control energy processes)</p>
+ <p>Belarussian National Technical University(engineer in energetic)</p>
+</section>
+<section class="section">
+ <h2 id="languages" id="languages" >Languages</h2>
+ <p>belarussian(native),russian,english(A2)</p>
+</section>
+        </div>
+ 
+    </main> 
+    <footer>
+        <div class="container footer-container">
+        <div>2022  <a href="https://github.com/Harvester2010" class="github" >Zhnai Vitali</a></div>
+        <a href="https://rs.school/js/" class="rss"></a>
+    </div>
+     </footer>
+</body>
+</html>
